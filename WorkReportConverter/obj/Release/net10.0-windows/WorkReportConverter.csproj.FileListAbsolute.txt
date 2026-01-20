@@ -1,0 +1,17 @@
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net10.0-windows\WorkReportConverter.exe
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net10.0-windows\WorkReportConverter.deps.json
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net10.0-windows\WorkReportConverter.runtimeconfig.json
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net10.0-windows\WorkReportConverter.dll
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net10.0-windows\WorkReportConverter.pdb
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.Form1.resources
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.Properties.Resources.resources
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.csproj.GenerateResource.cache
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.AssemblyInfoInputs.cache
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.AssemblyInfo.cs
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.csproj.CoreCompileInputs.cache
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.dll
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\refint\WorkReportConverter.dll
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.pdb
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\WorkReportConverter.genruntimeconfig.cache
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net10.0-windows\ref\WorkReportConverter.dll

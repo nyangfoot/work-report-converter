@@ -1,0 +1,17 @@
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.Form1.resources
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.Properties.Resources.resources
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.csproj.GenerateResource.cache
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.AssemblyInfoInputs.cache
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.AssemblyInfo.cs
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.csproj.CoreCompileInputs.cache
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net8.0-windows7.0\WorkReportConverter.exe
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net8.0-windows7.0\WorkReportConverter.deps.json
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net8.0-windows7.0\WorkReportConverter.runtimeconfig.json
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net8.0-windows7.0\WorkReportConverter.dll
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\bin\Release\net8.0-windows7.0\WorkReportConverter.pdb
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.dll
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\refint\WorkReportConverter.dll
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.pdb
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\WorkReportConverter.genruntimeconfig.cache
+C:\dev\02.C#\WorkReportConverter\WorkReportConverter\obj\Release\net8.0-windows7.0\ref\WorkReportConverter.dll

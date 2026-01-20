@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\02.C#\\WorkReportConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF556E9D-4301-45E7-9820-75EA02F7102C}|WorkReportConverter\\WorkReportConverter.csproj|c:\\dev\\02.c#\\workreportconverter\\workreportconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF556E9D-4301-45E7-9820-75EA02F7102C}|WorkReportConverter\\WorkReportConverter.csproj|solutionrelative:workreportconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF556E9D-4301-45E7-9820-75EA02F7102C}|WorkReportConverter\\WorkReportConverter.csproj|c:\\dev\\02.c#\\workreportconverter\\workreportconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF556E9D-4301-45E7-9820-75EA02F7102C}|WorkReportConverter\\WorkReportConverter.csproj|solutionrelative:workreportconverter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF556E9D-4301-45E7-9820-75EA02F7102C}|WorkReportConverter\\WorkReportConverter.csproj|c:\\dev\\02.c#\\workreportconverter\\workreportconverter\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF556E9D-4301-45E7-9820-75EA02F7102C}|WorkReportConverter\\WorkReportConverter.csproj|solutionrelative:workreportconverter\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF556E9D-4301-45E7-9820-75EA02F7102C}|WorkReportConverter\\WorkReportConverter.csproj|c:\\dev\\02.c#\\workreportconverter\\workreportconverter\\models\\reportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF556E9D-4301-45E7-9820-75EA02F7102C}|WorkReportConverter\\WorkReportConverter.csproj|solutionrelative:workreportconverter\\models\\reportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\dev\\02.C#\\WorkReportConverter\\WorkReportConverter\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WorkReportConverter\\Form1.Designer.cs",
+              "ToolTip": "C:\\dev\\02.C#\\WorkReportConverter\\WorkReportConverter\\Form1.Designer.cs",
+              "RelativeToolTip": "WorkReportConverter\\Form1.Designer.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAADwvzwBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:21:58.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\dev\\02.C#\\WorkReportConverter\\WorkReportConverter\\Form1.cs",
+              "RelativeDocumentMoniker": "WorkReportConverter\\Form1.cs",
+              "ToolTip": "C:\\dev\\02.C#\\WorkReportConverter\\WorkReportConverter\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "WorkReportConverter\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:41:49.87Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportModel.cs",
+              "DocumentMoniker": "C:\\dev\\02.C#\\WorkReportConverter\\WorkReportConverter\\models\\ReportModel.cs",
+              "RelativeDocumentMoniker": "WorkReportConverter\\models\\ReportModel.cs",
+              "ToolTip": "C:\\dev\\02.C#\\WorkReportConverter\\WorkReportConverter\\models\\ReportModel.cs",
+              "RelativeToolTip": "WorkReportConverter\\models\\ReportModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAywBQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:14:23.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\dev\\02.C#\\WorkReportConverter\\WorkReportConverter\\Form1.cs",
+              "RelativeDocumentMoniker": "WorkReportConverter\\Form1.cs",
+              "ToolTip": "C:\\dev\\02.C#\\WorkReportConverter\\WorkReportConverter\\Form1.cs",
+              "RelativeToolTip": "WorkReportConverter\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:04:58.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
